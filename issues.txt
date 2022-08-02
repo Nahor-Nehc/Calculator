@@ -1,0 +1,9 @@
+ISSUE RECORDED ------- Date: 23 December 2021 ------- Not Resolved
+
+Multiple nested brackets [(...(...(...)...)...)] do not work
+
+Try: find brackets starting from innermost to outermost
+
+ISSUE RECORDED ------- Date: 23 December 2021 ------- Not Resolved
+
+Multiple nested brackets [(...(...(...)...)...)] do not work with paired brackets [(...)...(...)]
